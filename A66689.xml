@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Most Excellent Majesty of James the IId by the grace of God of England, Scotland, France and Ireland King, defender of the faith, &amp;c : this book of ground-platt's, generall and particular prospects of all the parts of His Majesty's royal palace of Audley End / is most humbly p'sented &amp; dedicated by His Maiesties most loyal subject and servant  Henry Winstanley ...</title>
+            <author>Winstanley, Henry, 1644-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66689</idno>
+            <idno type="STC">Wing W3057A</idno>
+            <idno type="STC">ESTC R38146</idno>
+            <idno type="EEBO-CITATION">17197334</idno>
+            <idno type="OCLC">ocm 17197334</idno>
+            <idno type="VID">106175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1624:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Most Excellent Majesty of James the IId by the grace of God of England, Scotland, France and Ireland King, defender of the faith, &amp;c : this book of ground-platt's, generall and particular prospects of all the parts of His Majesty's royal palace of Audley End / is most humbly p'sented &amp; dedicated by His Maiesties most loyal subject and servant  Henry Winstanley ...</title>
+                  <author>Winstanley, Henry, 1644-1703.</author>
+               </titleStmt>
+               <extent>[25] leaves of plates (some folded) : ill., plans.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Audley End Palace (Saffron Walden, Essex)</term>
+               <term>Saffron Walden (England) --  Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:106175:1"/>
+            <p>
+               <hi>TO</hi> The most Excellent Majesty <hi>OF JAMES</hi> the <hi>IId</hi>. By the Grace of God <hi>OF ENGLAND, SCOTLAND,</hi> FRANCE and IRELAND <hi>KING.</hi>
+            </p>
+            <p>Defender of the Faith, &amp;c.</p>
+            <p>This Book of the Ground: Platt's Generall and Particular Prospects of all the Parts of his MAIESTY'S ROYAL Pallace of Audley End;</p>
+            <p>Is most humbly p<hi rend="sup">e</hi>sented &amp; dedicated by his MAIESTIES Most Loyall Subject and Servant <hi>Henry Winstanley,</hi> Clarke of the WORKS of the said Pallace, AND THAT AT NEWMARKET.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:106175:2"/>
+            <p>
+               <figure>
+                  <figDesc>ground-plan of the principal court of the royal palace of Audley End</figDesc>
+                  <head>THE PRINCIPALL COURT</head>
+                  <p>
+                     <list>
+                        <item>the Principall entry</item>
+                        <item>Lodge</item>
+                        <item>the little Hall</item>
+                        <item>the little kitchen</item>
+                        <item>Cloyster</item>
+                        <item>A Tarrice</item>
+                        <item>Cloyster</item>
+                        <item>Lodge</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:3"/>
+            <p>
+               <figure>
+                  <figDesc>ground-plan of the innermost court of the royal palace of Audley End</figDesc>
+                  <head>THE INNERMOST COURT</head>
+                  <p>
+                     <list>
+                        <item>The great Hall</item>
+                        <item>The Screene</item>
+                        <item>Pantry</item>
+                        <item>Pantry</item>
+                        <item>Celler</item>
+                        <item>Celler</item>
+                        <item>Celler</item>
+                        <item>Part of the Celler Garden</item>
+                        <item>Celler</item>
+                        <item>Part of the Bouling greene</item>
+                        <item>Chapple</item>
+                        <item>A Cloyster</item>
+                        <item>Part of the Mount Garden</item>
+                        <item>Still Roome</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:4"/>
+            <pb facs="tcp:106175:5"/>
+            <p>
+               <figure>
+                  <figDesc>general ground-plan of the royal palace of Audley End</figDesc>
+                  <head>A general Ground Plat of y<hi rend="sup">e</hi> Royall Pallace of Audley End &amp; Offices &amp; gardens belonging to it.</head>
+                  <byline>by Hen: Winſtanley Clarke of his Majesties Workes there</byline>
+                  <p>
+                     <list>
+                        <item>The Mount garden</item>
+                        <item>Cherry garden</item>
+                        <item>Cherry garden</item>
+                        <item>A Bridge</item>
+                        <item>the Road to the Towns</item>
+                        <item>The Bouling greene</item>
+                        <item>the Innermost Court</item>
+                        <item>The Principall Court</item>
+                        <item>the Wilderneſs</item>
+                        <item>the Celler Garden</item>
+                        <item>the great kitchen</item>
+                        <item>the Wood yard</item>
+                        <item>The Court Yard</item>
+                        <item>A Walke of Trees</item>
+                        <item>A Bridge</item>
+                        <item>The River</item>
+                        <item>the great Pond</item>
+                        <item>the brewhouſe yard</item>
+                        <item>the ſtore yard</item>
+                        <item>A Pond</item>
+                        <item>A Bridge</item>
+                        <item>The River</item>
+                        <item>the Stables</item>
+                        <item>the Stable Yard</item>
+                        <item>The Barnes</item>
+                        <item>The way to Walden</item>
+                        <item>the brewhouſe garden</item>
+                        <item>the Keepers lodge</item>
+                        <item>A Pond</item>
+                        <item>The great Road</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:6"/>
+            <p>
+               <figure>
+                  <figDesc>general view of the royal palace of Audley End</figDesc>
+                  <head>A General Prospect of the Royal Palace of Audlyene</head>
+                  <byline>H Winstanley at Littelbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:7"/>
+            <p>
+               <figure>
+                  <figDesc>view of the entry of the royal palace of Audley End</figDesc>
+                  <head>The Entry of the Royal Palace of Audlyend.</head>
+                  <byline>H. Winstanley al Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:8"/>
+            <p>
+               <figure>
+                  <figDesc>view of the north side of the great court of the royal palace of Audley End</figDesc>
+                  <head>The North Side of the great court (on the Left hand Ingoeing in.</head>
+                  <byline>H. Winstanley at Littellbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:9"/>
+            <p>
+               <figure>
+                  <figDesc>view of the south side of the great court of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the ſouth ſide of the great Court (beeing on the right hand in going in.</head>
+                  <byline>H. Winstanley at Littalbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:10"/>
+            <p>
+               <figure>
+                  <figDesc>view of the east side of the great court of the royal palace of Audley End</figDesc>
+                  <head>The Eaſte Side of the great Court (being the fore Side of the great Hall.</head>
+                  <byline>H. Winstanley at Littellbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:11"/>
+            <p>
+               <figure>
+                  <figDesc>view of the exit of the royal palace of Audley End</figDesc>
+                  <head>The prospect of the Goeing out of the Palace.</head>
+                  <byline>H. Winſtanley at Littellbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:12"/>
+            <p>
+               <figure>
+                  <figDesc>full view of the great court of the royal palace of Audley End</figDesc>
+                  <head>A full Prospect of the Great Court of Audlyene.</head>
+                  <byline>H Winstanlay at Littelbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:13"/>
+            <p>
+               <figure>
+                  <figDesc>view of the side of the innermost court of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the Side of the Innermost court. The opposet ſide is the ſame.</head>
+                  <byline>H. Winstanley al Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:14"/>
+            <p>
+               <figure>
+                  <figDesc>view of the south side of the little court of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the ſouth Side of the little Court.</head>
+                  <byline>H. Winstanley at Littelbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:15"/>
+            <p>
+               <figure>
+                  <figDesc>view of the innermost court facing the back of the hall of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the Innermost court Towards the Back of the hall.</head>
+                  <byline>H. Winstanley at Littellbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:16"/>
+            <p>
+               <figure>
+                  <figDesc>a full view of the innermost court of the royal palace of Audley End</figDesc>
+                  <head>A full Prospect of the Innermost Court.</head>
+                  <byline>H Winstanley at Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:17"/>
+            <p>
+               <figure>
+                  <figDesc>view of the back of the great court of the royal palace of Audley End</figDesc>
+                  <head>The Back-ſide of the great Court Towards the Mount-garden.</head>
+                  <byline>H. Winstanley at Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:18"/>
+            <p>
+               <figure>
+                  <figDesc>view of the back side of the innermost court of the royal palace of Audley End</figDesc>
+                  <head>The Back ſide of the Inner-most (or little) Court Towards the Mount garden.</head>
+                  <byline>H. Winstanley at Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:19"/>
+            <p>
+               <figure>
+                  <figDesc>general view from the mount garden of the royal palace of Audley End</figDesc>
+                  <head>A General Prospect of the Royal Palace of Audlyene Seen ſrom the Mount-Garden</head>
+                  <byline>H. Winſtanley at Littelbury Fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:20"/>
+            <p>
+               <figure>
+                  <figDesc>view of the back of the great court in the direction of the wood-yard of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the Backside of the great Court towards the Wood-yard.</head>
+                  <byline>H. Winstanley at Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:21"/>
+            <p>
+               <figure>
+                  <figDesc>view of the back of the innermost court in the direction of the wilderness of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the Backſide of the jnnermost Court towards the Wildernest.</head>
+                  <byline>H. Winstanley at Littelbury fecit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:22"/>
+            <p>
+               <figure>
+                  <figDesc>view of the bowling-green of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the Bowling-greene ſide (beeing the backside next the Park.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:23"/>
+            <p>
+               <figure>
+                  <figDesc>view of the bowling-green of the royal palace of Audley End</figDesc>
+                  <head>The Prospect of the Bowling-greene ſide (beeing the backside next the Park.</head>
+                  <byline>H Winstanley at Littelbury fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:24"/>
+            <p>
+               <figure>
+                  <figDesc>view of the stables of the royal palace of Audley End</figDesc>
+                  <head>The Stables of Audley End</head>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:25"/>
+            <p>
+               <figure>
+                  <figDesc>view of the back of the stables of the royal palace of Audley End</figDesc>
+                  <head>The Back of the Stables</head>
+               </figure>
+            </p>
+            <pb facs="tcp:106175:26"/>
+            <pb facs="tcp:106175:27"/>
+            <p>
+               <figure>
+                  <figDesc>general view of the royal palace of Audley End</figDesc>
+                  <head>A GENERAL PROSPECT OF THE ROYAL PALACE OF AVDLYENE</head>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>view of the royal palace at Audley End</figDesc>
+                  <p>
+                     <list>
+                        <item>A. The Principal Entry.</item>
+                        <item>B. The great Court.</item>
+                        <item>C. The great Hall.</item>
+                        <item>D. The jnnermost Court.</item>
+                        <item>E. The long Gallery.</item>
+                        <item>F. The Mount garden.</item>
+                        <item>G. The Celler-garden (or Wilderness.</item>
+                        <item>H. The Kitchin.</item>
+                        <item>I. The great Pond.</item>
+                        <item>K. Saffron-Walden.</item>
+                        <item>L. The ParK.</item>
+                     </list>
+                  </p>
+                  <byline>H. Winstanley at Littelbury fecit.</byline>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
